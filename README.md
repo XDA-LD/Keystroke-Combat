@@ -13,7 +13,7 @@ After Opening [MARS](https://courses.missouristate.edu/kenvollmar/mars/index.htm
 
 From there, everything should be ready, press CapsLock, compile, run and enjoy!
 
-![Keystroke Combat - A MIPS Assembly Shooting Game](https://youtu.be/5jMjjL_Z0Ec)
+![Keystroke Combat - A MIPS Assembly Shooting Game](https://youtu.be/5jMjjL_Z0Ec?si=b_QQj8lBFyxb0o08)
 
 # Game explanation: 
 Keystroke Combat is a multiplayer game where each player using a different set of keyboard 
