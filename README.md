@@ -3,7 +3,7 @@ Keystroke Combat is A MIPS assembly shooting game developed using MARS during Sp
 
 
 # How to setup the game
-After Openning [MARS](https://courses.missouristate.edu/kenvollmar/mars/index.htm) and opening the file `main.asm`:
+After Opening [MARS](https://courses.missouristate.edu/kenvollmar/mars/index.htm) and opening the file `main.asm`:
 - Open the 'Bitmap Display' (Tools>Bitmap-Display)
 - set Display Height in Pixels: 512
 - Resized your Bitmap Display Window
@@ -12,6 +12,8 @@ After Openning [MARS](https://courses.missouristate.edu/kenvollmar/mars/index.ht
 - Click On 'Connect To MIPS'
 
 From there, everything should be ready, press CapsLock, compile, run and enjoy!
+
+![Keystroke Combat - A MIPS Assembly Shooting Game](https://youtu.be/5jMjjL_Z0Ec)
 
 # Game explanation: 
 Keystroke Combat is a multiplayer game where each player using a different set of keyboard 
